@@ -20,7 +20,7 @@ repositories {
 ```
 dependencies {
     // Using JCenter
-    implementation 'com.tcqq.android:viewbehavior:1.0.0'
+    implementation 'com.tcqq.android:viewbehavior:1.0.1'
 }
 ```
 
