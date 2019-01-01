@@ -59,7 +59,7 @@ publish {
     groupId = 'com.tcqq.android'
     artifactId = 'viewbehavior'
     repoName = 'android'
-    publishVersion = '1.0.0'
+    publishVersion = '1.0.1'
     desc = 'When the AppBarLayout is completely collapsed, then the top of the View is at the bottom of the parent view.'
     website = 'https://github.com/tcqq/viewbehavior'
 }
