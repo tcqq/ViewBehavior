@@ -32,7 +32,7 @@ dependencies {
 License
 -------
 
-Copyright 2018 Juliane Lehmann, Alan Perry.
+Copyright 2018 Juliane Lehmann, Perry Lance
 
 Licensed to the Apache Software Foundation (ASF) under one or more contributor
 license agreements.  See the NOTICE file distributed with this work for

@@ -1,5 +1,5 @@
 /*
- * Copyright 2018 Juliane Lehmann, Alan Perry
+ * Copyright 2018 Juliane Lehmann, Perry Lance
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.

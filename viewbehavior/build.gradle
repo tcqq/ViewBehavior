@@ -1,5 +1,5 @@
 /*
- * Copyright 2018 Juliane Lehmann, Alan Perry
+ * Copyright 2018 Juliane Lehmann, Perry Lance
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -51,7 +51,7 @@ dependencies {
     //Android X
     implementation 'androidx.appcompat:appcompat:1.1.0'
     //Google
-    implementation 'com.google.android.material:material:1.2.0-alpha01'
+    implementation 'com.google.android.material:material:1.2.0-alpha06'
 }
 
 publish {
