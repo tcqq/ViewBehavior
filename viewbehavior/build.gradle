@@ -14,9 +14,11 @@
  *    limitations under the License.
  */
 
-apply plugin: 'com.novoda.bintray-release'
+plugins {
+    id 'com.android.library'
+}
 
-apply plugin: 'com.android.library'
+group='com.github.tcqq'
 
 android {
     compileSdkVersion 29
@@ -52,14 +54,4 @@ dependencies {
     implementation 'androidx.appcompat:appcompat:1.1.0'
     //Google
     implementation 'com.google.android.material:material:1.2.0-alpha06'
-}
-
-publish {
-    userOrg = 'tcqq'
-    groupId = 'com.tcqq.android'
-    artifactId = 'viewbehavior'
-    repoName = 'android'
-    publishVersion = '1.0.1'
-    desc = 'When the AppBarLayout is completely collapsed, then the top of the View is at the bottom of the parent view.'
-    website = 'https://github.com/tcqq/viewbehavior'
 }

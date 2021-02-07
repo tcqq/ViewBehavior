@@ -1,6 +1,6 @@
 [![API](https://img.shields.io/badge/API-17%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=17)
+[![JitPack](https://jitpack.io/v/tcqq/ViewBehavior.svg)](https://jitpack.io/#tcqq/ViewBehavior)
 [![Licence](https://img.shields.io/badge/Licence-Apache2-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
-[ ![Download](https://api.bintray.com/packages/tcqq/android/viewbehavior/images/download.svg) ](https://bintray.com/tcqq/android/viewbehavior/_latestVersion)
 
 # ViewBehavior
 
@@ -14,13 +14,13 @@ When the AppBarLayout is completely collapsed, then the top of the View is at th
 #### build.gradle
 ```
 repositories {
-    jcenter()
+    maven { url 'https://jitpack.io' }
 }
 ```
 ```
 dependencies {
     // Using JCenter
-    implementation 'com.tcqq.android:viewbehavior:1.0.1'
+    implementation 'com.github.tcqq:viewbehavior:1.0.1'
 }
 ```
 
